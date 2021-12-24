@@ -1,6 +1,6 @@
 - 👋 Hi there
 
-- I’m @sara-saadatmand. I'm a Ph.D. student studying Operations Research.
+- I’m @sara-saadatmand. I have a master of Operations Research.
 - 👀 I’m interested in data science, machine learning, and optimiztion models and their application in healthcare.
 - 🌱 I’m currently working on a project related to COVID-19 pandemic.
 - 💞️ I’m looking to collaborate on developing machine learning models to slove problems in healthcare area.
